@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog
 
+## 0.6.5
+
+### Patch Changes
+
+- e19283b39: Get rid of flex console warning for IconLink
+- Updated dependencies
+  - @backstage/core-components@0.1.4
+
 ## 0.6.4
 
 ### Patch Changes
